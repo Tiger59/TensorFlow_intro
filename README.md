@@ -1,2 +1,3 @@
 # TensorFlow_intro
 TensorFlowの導入です
+MNISTの使い手書き数字のデータセットを使い画像う分類を行います。
